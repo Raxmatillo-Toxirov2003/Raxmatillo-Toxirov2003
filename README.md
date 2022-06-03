@@ -3,7 +3,7 @@
 - 💬 Ask me about learning Javascript and C++
 - 📫 How to reach me: raxmatillotoxirov2003@gmail.com
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raxmatillo-Toxirov2003)     [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raxmatillo-toxirov-9a63a7240)           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raxmatillo_toxirov) 
+<pre><code>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raxmatillo-Toxirov2003)</code></pre>     <pre><code>[<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raxmatillo-toxirov-9a63a7240)</code></pre>           <pre><code>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raxmatillo_toxirov)</code></pre>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxmatillo-toxirov2003)](https://github.com/anuraghazra/github-readme-stats)
 
