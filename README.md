@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Javascript 
-- 💬 Ask me about learning Javascript and C++
+- 💬 Ask me about C++ and learning Javascript
 - 📫 How to reach me: raxmatillotoxirov2003@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raxmatillo-Toxirov2003)   [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raxmatillo-toxirov-9a63a7240)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raxmatillo_toxirov)  
